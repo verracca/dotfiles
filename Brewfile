@@ -1,0 +1,3 @@
+brew "zsh"
+brew "z"
+
